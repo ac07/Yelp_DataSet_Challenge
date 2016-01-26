@@ -6,6 +6,7 @@ Predicting the Category and Sub-Category of a Business on the basis of a Tip or 
 Implemented using Lucene.
 
 
+
 Task2:
 
 Identifying the Influencers for Local Businesses from amongst their patrons on the basis of the following factors:
